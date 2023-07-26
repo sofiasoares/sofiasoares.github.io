@@ -2,7 +2,7 @@
 
 ---
 
-### Neuroscience 
+### Neuroscience projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,15 +12,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Teaching
 
 [Food for hungry minds course](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/syllabus_portfolio_sample.png?raw=true"/>
 
 ---
 - [Project 2 Title](http://example.com/)
