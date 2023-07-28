@@ -15,7 +15,7 @@
 
 ### Teaching
 
-[Food for hungry minds course](/sample_page)
+[Food for hungry minds course](/food_minds)
 <img src="images/syllabus_portfolio_sample.png?raw=true"/>
 
 ---
@@ -27,8 +27,5 @@
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
